@@ -6,3 +6,5 @@ Tutorial
 
 Youtube serie
 <a href="https://www.youtube.com/playlist?list=PLfX6C2dxVyLxXl3gJwakzdqRaV7WKlqFR">https://www.youtube.com/playlist?list=PLfX6C2dxVyLxXl3gJwakzdqRaV7WKlqFR</a>
+
+När man skapar sitt VR projekt i godot bör man använda projekt-mallen "Compatibility".
